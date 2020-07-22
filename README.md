@@ -35,6 +35,9 @@ Web site for designer for rociod
 <p>Progres en the Specialization Capstone (20%): <meter max="2048"value="547" ></meter></p>
 
 <p>Progress in life goals (75%): <meter max="4100" value="2154""></meter></p>
+  <!-- Barra de progreso -->
+  <progress max="100" value="25">
+</form>
 
 
 <h2>More About Me</h2>
